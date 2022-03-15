@@ -12,6 +12,7 @@ function distanceFromHqInFeet(blocknumber) {
 function distanceTravelledInFeet(start, destination) {
     const blockLength = 264;
     if (start < destination)
+     console.log (blockLengthfuc)
         return (destination - start) * blockLength;
     else return (start - destination) * blockLength;
 }

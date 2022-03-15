@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-02-24T17:23:32.316Z",
-    "end": "2022-02-24T17:23:33.074Z",
-    "duration": 758
+    "start": "2022-03-15T22:31:31.708Z",
+    "end": "2022-03-15T22:31:32.583Z",
+    "duration": 875
   },
   "tests": [
     {
@@ -23,7 +23,7 @@
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -32,7 +32,7 @@
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInBlocks() calculates distances below 42nd street",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -41,7 +41,7 @@
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -59,7 +59,7 @@
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInFeet() calculates distances below 42nd street",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -68,7 +68,7 @@
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -95,7 +95,7 @@
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -104,7 +104,7 @@
       "title": "charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -113,7 +113,7 @@
       "title": "charges 25 dollars for a distance over 2000 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 25 dollars for a distance over 2000 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -122,7 +122,7 @@
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) does not allow rides over 2500 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -144,7 +144,7 @@
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -153,7 +153,7 @@
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInBlocks() calculates distances below 42nd street",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -162,7 +162,7 @@
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -180,7 +180,7 @@
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInFeet() calculates distances below 42nd street",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -189,7 +189,7 @@
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -216,7 +216,7 @@
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -225,7 +225,7 @@
       "title": "charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -234,7 +234,7 @@
       "title": "charges 25 dollars for a distance over 2000 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 25 dollars for a distance over 2000 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -243,7 +243,7 @@
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) does not allow rides over 2500 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
